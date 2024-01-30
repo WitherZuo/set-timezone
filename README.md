@@ -1,3 +1,5 @@
+Forked from [szenius/set-timezone](https://github.com/szenius/set-timezone)
+
 # Set Timezone Action
 
 ![Test Action](https://github.com/szenius/set-timezone/workflows/.github/workflows/action.yml/badge.svg)
@@ -15,7 +17,7 @@ This action sets timezone in your runner's locale based on its OS.
 ## Example usage
 
 ```yaml
-uses: szenius/set-timezone@v1.2
+uses: WitherZuo/set-timezone@v1
 with:
   timezoneLinux: "Asia/Singapore"
   timezoneMacos: "Asia/Singapore"

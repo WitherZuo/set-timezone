@@ -1,6 +1,6 @@
 name: "Set Timezone"
 description: "Sets timezone in your locale"
-author: "szenius"
+author: "WitherZuo"
 branding:
   icon: "clock"
   color: "yellow"
