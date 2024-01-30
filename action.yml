@@ -1,4 +1,4 @@
-name: "Set Timezone"
+name: "Set OS Timezone"
 description: "Sets timezone in your locale"
 author: "WitherZuo"
 branding:
